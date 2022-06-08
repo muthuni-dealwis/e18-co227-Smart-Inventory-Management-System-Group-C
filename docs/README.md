@@ -18,9 +18,9 @@ title:
 
 
 ## Team
--  E/18/058, De Alwis K.K.M, [email](mailto:e18058@eng.pdn.ac.lk)
--  E/18/115, Gowsigan A, [email](mailto:e18115@eng.pdn.ac.lk)
--  E/18/168, Karan R, [email](mailto:e18168@eng.pdn.ac.lk)
+-  E/18/058, De Alwis K.K.M, [e18058@eng.pdn.ac.lk](mailto:e18058@eng.pdn.ac.lk)
+-  E/18/115, Gowsigan A, [e18115@eng.pdn.ac.lk](mailto:e18115@eng.pdn.ac.lk)
+-  E/18/168, Karan R, e18168@eng.pdn.ac.lk](mailto:e18168@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
