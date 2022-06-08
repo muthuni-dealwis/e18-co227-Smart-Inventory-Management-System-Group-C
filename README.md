@@ -1,7 +1,7 @@
 ___
 # Smart-Inventory-Management-System
 ___
-## Manage multiple roles for Smart Inventory Management System
+## Component ordering in Smart Inventory Management System
 ___
 
 ## Please refer the instructions in below URL:
