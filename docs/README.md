@@ -13,15 +13,14 @@ title:
 
 ---
 
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
 
-![Sample Image](./images/sample.png)
+![Sample Image](./images/smart.png)
 
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+-  E/18/058, De Alwis K.K.M, [email](mailto:e18058@eng.pdn.ac.lk)
+-  E/18/115, Gowsigan A, [email](mailto:e18115@eng.pdn.ac.lk)
+-  E/18/168, Karan R, [email](mailto:e18168@eng.pdn.ac.lk)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -32,9 +31,11 @@ This is a sample image, to show how to add images to your page. To learn more op
 
 ## Introduction
 
- description of the real world problem and solution, impact
+ An online platform is required where, the students have the ability to apply for the inventory that they need for their project work. Also they should be able to submit their designs and get the approval from the department.
 
 ## Other Sub Topics
+
+
 
 .....
 
